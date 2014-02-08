@@ -19,7 +19,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8815/proprietary/bin/netmgrd:system/bin/netmgrd \
     vendor/huawei/u8815/proprietary/bin/oem_rpc_svc:system/bin/oem_rpc_svc \
     vendor/huawei/u8815/proprietary/bin/qmuxd:system/bin/qmuxd \
-    vendor/huawei/u8815/proprietary/bin/rild:system/bin/rild \
     vendor/huawei/u8815/proprietary/etc/bluetooth/BCM4330.hcd:system/etc/bluetooth/BCM4330.hcd \
     vendor/huawei/u8815/proprietary/etc/fw_4330_b2.bin:system/etc/fw_4330_b2.bin \
     vendor/huawei/u8815/proprietary/lib/109808/libcm.so:system/lib/109808/libcm.so \
@@ -42,11 +41,9 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8815/proprietary/lib/libqdp.so:system/lib/libqdp.so \
     vendor/huawei/u8815/proprietary/lib/libqmiservices.so:system/lib/libqmiservices.so \
     vendor/huawei/u8815/proprietary/lib/libqmi.so:system/lib/libqmi.so \
-    vendor/huawei/u8815/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
     vendor/huawei/u8815/proprietary/lib/libril-qc-1.so:system/lib/libril-qc-1.so \
     vendor/huawei/u8815/proprietary/lib/libril-qc-qmi-1.so:system/lib/libril-qc-qmi-1.so \
     vendor/huawei/u8815/proprietary/lib/libril-qcril-hook-oem.so:system/lib/libril-qcril-hook-oem.so \
-    vendor/huawei/u8815/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/huawei/u8815/proprietary/lib/libsettings.so:system/lib/libsettings.so \
     vendor/huawei/u8815/proprietary/lib/libshareril.so:system/lib/libshareril.so \
     vendor/huawei/u8815/proprietary/lib/libuim.so:system/lib/libuim.so \
