@@ -61,31 +61,24 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/msm7x27a-common/proprietary/lib/libchromatix_imx091_video_hd.so:system/lib/libchromatix_imx091_video_hd.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libchromatix_imx105_sunny_default_video.so:system/lib/libchromatix_imx105_sunny_default_video.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libchromatix_imx105_sunny_preview.so:system/lib/libchromatix_imx105_sunny_preview.so \
-    vendor/huawei/msm7x27a-common/proprietary/lib/libchromatix_mt9e013_ar.so:system/lib/libchromatix_mt9e013_ar.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libchromatix_mt9e013_default_video.so:system/lib/libchromatix_mt9e013_default_video.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libchromatix_mt9e013_preview.so:system/lib/libchromatix_mt9e013_preview.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libchromatix_mt9e013_sunny_default_video.so:system/lib/libchromatix_mt9e013_sunny_default_video.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libchromatix_mt9e013_sunny_preview.so:system/lib/libchromatix_mt9e013_sunny_preview.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libchromatix_mt9e013_sunny_video_hfr.so:system/lib/libchromatix_mt9e013_sunny_video_hfr.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libchromatix_mt9e013_video_hfr.so:system/lib/libchromatix_mt9e013_video_hfr.so \
-    vendor/huawei/msm7x27a-common/proprietary/lib/libchromatix_mt9p017_ar.so:system/lib/libchromatix_mt9p017_ar.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libchromatix_mt9p017_default_video.so:system/lib/libchromatix_mt9p017_default_video.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libchromatix_mt9p017_preview.so:system/lib/libchromatix_mt9p017_preview.so \
-    vendor/huawei/msm7x27a-common/proprietary/lib/libchromatix_mt9p017_video.so:system/lib/libchromatix_mt9p017_video.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libchromatix_ov2720_default_video.so:system/lib/libchromatix_ov2720_default_video.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libchromatix_ov2720_hfr.so:system/lib/libchromatix_ov2720_hfr.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libchromatix_ov2720_preview.so:system/lib/libchromatix_ov2720_preview.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libchromatix_ov2720_zsl.so:system/lib/libchromatix_ov2720_zsl.so \
-    vendor/huawei/msm7x27a-common/proprietary/lib/libchromatix_ov5647_ar.so:system/lib/libchromatix_ov5647_ar.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libchromatix_ov5647_default_video.so:system/lib/libchromatix_ov5647_default_video.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libchromatix_ov5647_ff_default_video.so:system/lib/libchromatix_ov5647_ff_default_video.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libchromatix_ov5647_ff_preview.so:system/lib/libchromatix_ov5647_ff_preview.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libchromatix_ov5647_ff_video_hfr.so:system/lib/libchromatix_ov5647_ff_video_hfr.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libchromatix_ov5647_preview.so:system/lib/libchromatix_ov5647_preview.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libchromatix_ov5647_video_hfr.so:system/lib/libchromatix_ov5647_video_hfr.so \
-    vendor/huawei/msm7x27a-common/proprietary/lib/libchromatix_ov5647_video.so:system/lib/libchromatix_ov5647_video.so \
-    vendor/huawei/msm7x27a-common/proprietary/lib/libchromatix_ov5647_y300_default_video.so:system/lib/libchromatix_ov5647_y300_default_video.so \
-    vendor/huawei/msm7x27a-common/proprietary/lib/libchromatix_ov5647_y300_preview.so:system/lib/libchromatix_ov5647_y300_preview.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libchromatix_ov8825_default_video.so:system/lib/libchromatix_ov8825_default_video.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libchromatix_ov8825_preview.so:system/lib/libchromatix_ov8825_preview.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libchromatix_ov9726_default_video.so:system/lib/libchromatix_ov9726_default_video.so \
@@ -99,15 +92,9 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/msm7x27a-common/proprietary/lib/libchromatix_s5k3l1yx_preview.so:system/lib/libchromatix_s5k3l1yx_preview.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libchromatix_s5k3l1yx_video_hd.so:system/lib/libchromatix_s5k3l1yx_video_hd.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libchromatix_s5k3l1yx_zsl.so:system/lib/libchromatix_s5k3l1yx_zsl.so \
-    vendor/huawei/msm7x27a-common/proprietary/lib/libchromatix_s5k4e1_3_ar.so:system/lib/libchromatix_s5k4e1_3_ar.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libchromatix_s5k4e1_3_default_video.so:system/lib/libchromatix_s5k4e1_3_default_video.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libchromatix_s5k4e1_3_preview.so:system/lib/libchromatix_s5k4e1_3_preview.so \
-    vendor/huawei/msm7x27a-common/proprietary/lib/libchromatix_s5k4e1_3_y300_default_video.so:system/lib/libchromatix_s5k4e1_3_y300_default_video.so \
-    vendor/huawei/msm7x27a-common/proprietary/lib/libchromatix_s5k4e1_3_y300_preview.so:system/lib/libchromatix_s5k4e1_3_y300_preview.so \
-    vendor/huawei/msm7x27a-common/proprietary/lib/libchromatix_s5k4e1_ar.so:system/lib/libchromatix_s5k4e1_ar.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libchromatix_s5k4e1_default_video.so:system/lib/libchromatix_s5k4e1_default_video.so \
-    vendor/huawei/msm7x27a-common/proprietary/lib/libchromatix_s5k4e1_f_default_video.so:system/lib/libchromatix_s5k4e1_f_default_video.so \
-    vendor/huawei/msm7x27a-common/proprietary/lib/libchromatix_s5k4e1_f_preview.so:system/lib/libchromatix_s5k4e1_f_preview.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libchromatix_s5k4e1_preview.so:system/lib/libchromatix_s5k4e1_preview.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libchromatix_vx6953_default_video.so:system/lib/libchromatix_vx6953_default_video.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libchromatix_vx6953_preview.so:system/lib/libchromatix_vx6953_preview.so \
@@ -120,7 +107,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/msm7x27a-common/proprietary/lib/libgemini.so:system/lib/libgemini.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libgesture_client.so:system/lib/libgesture_client.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libgestureservice.so:system/lib/libgestureservice.so \
-    vendor/huawei/msm7x27a-common/proprietary/lib/libgps.utils.so:system/lib/libgps.utils.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libgsl.so:system/lib/libgsl.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libhwnv.so:system/lib/libhwnv.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libhwrpc.so:system/lib/libhwrpc.so \
@@ -148,7 +134,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/msm7x27a-common/proprietary/lib/libmmparser.so:system/lib/libmmparser.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libmmstillomx.so:system/lib/libmmstillomx.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libnetmgr.so:system/lib/libnetmgr.so \
-    vendor/huawei/msm7x27a-common/proprietary/lib/libnl_2.so:system/lib/libnl_2.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libnv.so:obj/lib/libnv.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libnv.so:system/lib/libnv.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so \

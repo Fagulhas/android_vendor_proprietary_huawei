@@ -44,8 +44,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8815/proprietary/lib/libril-qc-1.so:system/lib/libril-qc-1.so \
     vendor/huawei/u8815/proprietary/lib/libril-qc-qmi-1.so:system/lib/libril-qc-qmi-1.so \
     vendor/huawei/u8815/proprietary/lib/libril-qcril-hook-oem.so:system/lib/libril-qcril-hook-oem.so \
-    vendor/huawei/u8815/proprietary/lib/libsettings.so:system/lib/libsettings.so \
-    vendor/huawei/u8815/proprietary/lib/libshareril.so:system/lib/libshareril.so \
     vendor/huawei/u8815/proprietary/lib/libuim.so:system/lib/libuim.so \
     vendor/huawei/u8815/proprietary/lib/libwms.so:system/lib/libwms.so \
     vendor/huawei/u8815/proprietary/lib/libwmsts.so:system/lib/libwmsts.so
